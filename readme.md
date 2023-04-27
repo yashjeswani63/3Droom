@@ -144,8 +144,8 @@ That's it, you should now have the GUI you can see in the [example scene](https:
 If you'd like to test this project and run it locally, run these commands:
 
 ```
-git clone https://github.com/0beqz/screen-space-reflections
-cd screen-space-reflections/example
+git clone https://github.com/yashjeswani63/3Droom
+cd 3Droom/example
 npm i --force
 npm run dev
 ```
